@@ -6,4 +6,6 @@ Git tracks changes of files.
 Creating a new branch is quick & simple.
 =======
 Git tracks changes of files AND simple.
->>>>>>> featrue1
+>>>>>>> featruea1
+
+merge
